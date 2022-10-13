@@ -3,7 +3,7 @@
 
 #### By _**Brandon Fenk, and Ryan Krueger**_
 
-#### _This is a very simple animal shelter website_
+#### _This is a very simple animal shelter website._
 
 ## Technologies Used
 
@@ -19,7 +19,7 @@ _This is a animal shelter website._
 
 * _clone this repository to desktop_
 * _navigate to the top level of the directory_
-* _open animal-shelter.html 
+* _open index.html_
 
 
 ## Known Bugs
@@ -28,6 +28,6 @@ _This is a animal shelter website._
 
 ## License
 
-_MIT_
+_GPL_
 
-Copyright (c) _10/13/22_Brandon Femk,and Ryan Krueger
+Copyright (c) _10/13/22_Brandon Fenk,and Ryan Krueger
