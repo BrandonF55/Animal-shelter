@@ -1,0 +1,57 @@
+
+h1{
+  text-align: center;
+}
+body{
+  color: blueviolet;
+}
+
+.poodle p{
+  color: blanchedalmond;
+}
+
+img{
+width: 200px;
+border: solid;
+border-width: 7px;
+margin: 10px
+}
+
+.bull-dog{
+  width: 300px;
+  float: left;
+  border: solid;
+border-width: 10px;
+margin: 20px;
+height: 300px;
+padding: 30px;
+box-sizing: border-box;
+
+
+}
+
+
+.poodle{
+  width: 300px;
+  float: left;
+  border: solid;
+border-width: 10px;
+margin: 20px;
+height: 300px;
+padding: 30px;
+box-sizing: border-box;
+
+
+}
+
+.border-collie{
+  width: 300px;
+  float: left;
+  border: solid;
+border-width: 10px;
+margin: 20px;
+height: 300px;
+padding: 30px;
+box-sizing: border-box;
+
+}
